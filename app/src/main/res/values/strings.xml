@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Random Facts</string>
+    <string name="share_text">Share</string>
+    <string name="fetch_fact_failure_msg">Unable to find new random fact :( Please try again later</string>
+    <string name="added_to_favorites">Added to favorites</string>
+    <string name="random_fact_frag_title">Random Fact</string>
+    <string name="favorite_facts_frag_title">Favourite Facts</string>
+    <string name="deactivate_share_btn_inform_user">Without granting your permissions the share button will be deactivated.</string>
+    <string name="check_this_out_hashtag">Check this out! #RandomFactsApp</string>
+    <string name="please_activate_permissions">Please enable permissions to activate this feature</string>
+    <string name="please_enable_network">Please enable network connectivity to properly use the app</string>
+</resources>

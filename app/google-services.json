@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "843188515064",
+    "firebase_url": "https://randomfacts-494ae.firebaseio.com",
+    "project_id": "randomfacts-494ae",
+    "storage_bucket": "randomfacts-494ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843188515064:android:65f917aacedbd0d0",
+        "android_client_info": {
+          "package_name": "com.gadik.randomfacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843188515064-hqni2gfc2pfnog77dfbvjc97cno6b9uv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gadik.randomfacts",
+            "certificate_hash": "4de215a40e8a89a1f9f3ffaab415be671407d2ff"
+          }
+        },
+        {
+          "client_id": "843188515064-7po80ck7djr5aob151dd84jungn3i6rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBtKV8tGwuwAHmp1_1Sw3UY3A2QoitBls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843188515064-7po80ck7djr5aob151dd84jungn3i6rh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
